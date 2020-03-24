@@ -1,0 +1,20 @@
+{
+  "name": "omnistack_w11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavo4dev/omnistack_w11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavo4dev/omnistack_w11/issues"
+  },
+  "homepage": "https://github.com/gustavo4dev/omnistack_w11#readme"
+}
